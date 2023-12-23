@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;200;300;400;500;600;700&family=Lora:ital,wght@0,400;0,600;1,500&family=Niconne&family=Poppins:ital,wght@0,200;0,400;1,700&family=Roboto&family=Varela&display=swap');
+
+
+
+.section{
+    max-width: 100%;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    gap: 10px;
+    height: auto;
+    border: 1px solid black;
+
+}
+
+.day{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    background-color: rgb(168, 163, 163);
+    height: 70px;   
+}
+
+.day h3{
+    color: red;
+}
+
+.time{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 100%;
+    gap: 50px;
+    
+}

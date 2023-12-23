@@ -1,0 +1,122 @@
+[
+    {
+        "day":"Mon",
+        "date": "12/01",
+        "time":"08:30 AM"
+    },
+    {
+        "day":"Tue",
+        "date": "12/02",
+        "time":"11:00 AM"
+    },
+    {
+        "day":"Wed",
+        "date": "12/03",
+        "time":"09:30 AM"
+    },
+    {
+        "day":"Thu",
+        "date": "12/04",
+        "time":"08:30 AM"
+    },
+    {
+        "day":"Fri",
+        "date": "12/05",
+        "time":"12:00 PM"
+    },
+
+    {
+        "day":"Mon",
+        "date": "12/08",
+        "time":"07:30 PM"
+    },
+    {
+        "day":"Tue",
+        "date": "12/09",
+        "time":"11:00 AM"
+    },
+    {
+        "day":"Wed",
+        "date": "12/10",
+        "time":"02:30 PM"
+    },
+    {
+        "day":"Thu",
+        "date": "12/11",
+        "time":"03:30 PM"
+    },
+    {
+        "day":"Fri",
+        "date": "12/12",
+        "time":"08:00 PM"
+    },
+    {
+        "day":"Mon",
+        "date": "12/15",
+        "time":"09:00 AM"
+    },
+    {
+        "day":"Tue",
+        "date": "12/16",
+        "time":"01:30 PM"
+    },
+    {
+        "day":"Wed",
+        "date": "12/17",
+        "time":"12:00 PM"
+    },
+    {
+        "day":"Thu",
+        "date": "12/18",
+        "time":"05:00 PM"
+    },
+    {
+        "day":"Fri",
+        "date": "12/19",
+        "time":"09:00 AM"
+    },
+    {
+        "day":"Mon",
+        "date": "12/22",
+        "time":"11:00 AM"
+    },
+    {
+        "day":"Tue",
+        "date": "12/23",
+        "time":"07:00 PM"
+    },
+    {
+        "day":"Wed",
+        "date": "12/24",
+        "time":"10:30 AM"
+    },
+    {
+        "day":"Thu",
+        "date": "12/25",
+        "time":"08:30 AM"
+    },
+    {
+        "day":"Fri",
+        "date": "12/26",
+        "time":"03:00 PM"
+    },
+    {
+        "day":"Mon",
+        "date": "12/29",
+        "time":"04:00 PM"
+    },
+    {
+        "day":"Tue",
+        "date": "12/30",
+        "time":"12:00 PM"
+    },
+    {
+        "day":"Wed",
+        "date": "12/31",
+        "time":"08:30 PM"
+    }
+
+
+
+]
+  
