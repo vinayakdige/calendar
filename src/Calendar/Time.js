@@ -51,7 +51,7 @@ const Time = (props) => {
                 </div>
               ) : (
                 <div>
-                  <input type="checkbox" />
+                  <input type="checkbox" unchecked />
                   <label>{t}</label>
                 </div>
               )}
